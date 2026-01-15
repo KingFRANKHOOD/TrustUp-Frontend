@@ -17,7 +17,6 @@
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Contributing](#-contributing)
 
 </div>
----
 
 ## 📖 About
 
@@ -102,8 +101,8 @@ TrustUp-Frontend/
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/TrustUp-app/TrustUp-Mobile.git
-cd TrustUp-Mobile
+git clone https://github.com/TrustUp-app/TrustUp-Frontend.git
+cd TrustUp-Frontend
 
 # Install dependencies
 npm install
